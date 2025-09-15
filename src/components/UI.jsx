@@ -98,7 +98,7 @@ export const UI = () => {
               Three.js
             </h2>
             <h2 className="shrink-0 text-transparent text-12xl font-bold italic outline-text">
-              WEB 3D
+              Omar
             </h2>
             <h2 className="shrink-0 text-white text-9xl font-medium">
             React Three Fiber
